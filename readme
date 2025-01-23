@@ -1,2 +1,5 @@
 install raspberryPI Connect
 choose bookworm 64 bit
+
+remove python3.11/externally-managed
+sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
