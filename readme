@@ -27,6 +27,6 @@ Next step go to terminal
 remove python3.11/externally-managed
 sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
 
-run detect1.py by thonny program
+run objectDetectPIcam.py by thonny program
 
 TEST ! to detect person keyboard mouse ETC
