@@ -13,10 +13,12 @@ https://www.raspberrypi.com/software/connect/
 Register wiht your email
 
 connect Raspberry Pi camera module 2 (port Camera)
-Boot raspberry PI with OS Bookworm
+Boot raspberry PI with OS Bookworm (you need monitor, keyboard, mouse)
 
-Open raspberryPI connect at topright screen (In raspberry pi destop)
-then comeback to Raspberry Pi Connect Beta and Signin
+Open raspberryPI connect at topright screen (In raspberry pi board desktop)
+Turn On Raspberry Pi Connect 
+and Sign in wiht Raspberry Pi ID 
+then comeback to Raspberry Pi Connect Beta and Signin with computer
 
 At your device click at connect via
 then click Screen sharing
