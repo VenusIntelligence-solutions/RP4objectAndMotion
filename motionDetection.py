@@ -24,8 +24,3 @@ while True:
     
     frame1 = frame2
 
-    if cv2.waitKey(1) & 0xFF == ord("q"):
-        break
-
-cap.release()
-cv2.destroyAllWindows()
