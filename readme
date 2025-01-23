@@ -21,9 +21,10 @@ then comeback to Raspberry Pi Connect Beta and Signin
 At your device click at connect via
 then click Screen sharing
 
-NOW WE CONTROL by computer or notebook
+NOW WE can CONTROL raspberry pi 4 by computer or notebook
 
 Next step go to terminal
+git clone ... (copy code)
 remove python3.11/externally-managed for install opencv-python
 sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
 
