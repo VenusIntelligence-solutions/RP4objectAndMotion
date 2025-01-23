@@ -23,4 +23,7 @@ while True:
     cv2.imshow ("OUTPUTJA" , frame1)
     
     frame1 = frame2
+    if cv2.waitKey(1) & 0xFF == ord("q"):
+        break
 
+cv2.destroyAllWindows()
