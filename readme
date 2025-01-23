@@ -1,5 +1,32 @@
-install raspberryPI Connect
+Get Raspberry Pi Imager at
+https://www.raspberrypi.com/software/
+
+install raspberryPI Connect 
 choose bookworm 64 bit
 
+CHOOSE DEVICE >>> Raspberry Pi4
+CHOOSE OS >>> Raspberry Pi OS (64-bit) Bookworm
+CHOOSE STORAGE >>> at least 32 GB
+
+go to Raspberry Pi Connect Beta 
+https://www.raspberrypi.com/software/connect/
+Register wiht your email
+
+connect Raspberry Pi camera module 2 (port Camera)
+Boot raspberry PI with OS Bookworm
+
+Open raspberryPI connect at topright screen (In raspberry pi destop)
+then comeback to Raspberry Pi Connect Beta and Signin
+
+At your device click at connect via
+then click Screen sharing
+
+NOW WE CONTROL by computer or notebook
+
+Next step go to terminal
 remove python3.11/externally-managed
 sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+
+run detect1.py by thonny program
+
+TEST ! to detect person keyboard mouse ETC
