@@ -24,9 +24,14 @@ then click Screen sharing
 NOW WE CONTROL by computer or notebook
 
 Next step go to terminal
-remove python3.11/externally-managed
+remove python3.11/externally-managed for install opencv-python
 sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+
+install opencv-python
+sudo pip3 install opencv-python
+sudo pip3 install mediapipe
 
 run objectDetectPIcam.py by thonny program
 
-TEST ! to detect person keyboard mouse ETC
+TEST ! to detect person keyboard mouse ETC 
+ENJOY!
