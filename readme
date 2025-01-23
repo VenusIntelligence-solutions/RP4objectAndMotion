@@ -34,7 +34,12 @@ install opencv-python
 sudo pip3 install opencv-python
 sudo pip3 install mediapipe
 
-run objectDetectPIcam.py by thonny program
+run 
+  objectDetectPIcam.py 
+        or 
+  motionDetection.py
+
+by thonny program
 
 TEST ! to detect person keyboard mouse ETC 
 ENJOY!
